@@ -20,7 +20,7 @@ subprojects {
 
     dependencies {
         "compileOnlyApi"("com.mojang:datafixerupper:8.0.16")
-        "compileOnly"("org.jetbrains:annotations:24.1.0")
+        "compileOnly"("org.jetbrains:annotations:26.0.1")
 
         "testImplementation"("com.mojang:datafixerupper:8.0.16")
     }
